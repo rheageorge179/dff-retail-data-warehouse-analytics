@@ -1,6 +1,6 @@
 /*
 Amazon Redshift Query Editor v2 compatible queries
-Use this for demographic segmentation reporting.
+
 */
 
 -- Total sales by income band
