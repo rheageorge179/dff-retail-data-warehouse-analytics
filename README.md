@@ -186,25 +186,5 @@ python python/sample_visuals.py
 
 ---
 
-## Interview Walkthrough
 
-For a 5–10 minute interview walkthrough, use:
 
-```text
-docs/video_walkthrough_script.md
-```
-
-Recommended focus:
-
-1. Business problem and dataset
-2. Dimensional model design
-3. ETL pipeline
-4. Fact tables and measures
-5. Analytics queries and business insights
-6. What you would improve in production
-
----
-
-## Note on Project Scope
-
-This is a portfolio-ready implementation package based on a retail data warehouse project. If presenting it in an interview, clearly explain which parts you individually implemented or rebuilt for this repository.
