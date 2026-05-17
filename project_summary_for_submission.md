@@ -10,11 +10,11 @@ This project designs and implements a retail data warehouse for Dominick's Finer
 
 ## Repository Link
 
-Add your GitHub link here:
+
 
 `https://github.com/<your-username>/dff-retail-data-warehouse-analytics`
 
-## Why This Project Is Relevant for a Data Analyst Role
+
 
 This project shows my ability to move from raw business data to decision-ready analytics. It includes:
 
@@ -49,11 +49,3 @@ This project shows my ability to move from raw business data to decision-ready a
 | `python/data_quality_checks.py` | Data profiling and validation |
 | `docs/video_walkthrough_script.md` | 5–10 minute walkthrough script |
 
-## Suggested Dropbox Upload Contents
-
-Upload:
-
-1. GitHub repository link
-2. 5–10 minute video walkthrough
-3. Optional PDF copy of project report if allowed
-4. Optional resume
